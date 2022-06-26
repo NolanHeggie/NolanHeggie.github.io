@@ -1,0 +1,36 @@
+.every {
+	text-align: center;
+	background-color: #F0F8FF;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #4B0082;
+	color: #000000;
+}
+.nav {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 0;
+}
+.nav li {
+	display: inline;
+	padding: 20px;
+}
+
+.main {
+	background-color: #8B0000;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+}
+.big-header {
+	font-weight: bold;
+	font-size: 20px;
+	font-family: Lucida Console;
+}
+.time {
+	text-align: center;
+  	width: 300px;
+  	border: 3px solid;
+  	padding: 10px;
+	font-size: 12px;
+	font-family: monospace, lucida console;
